@@ -1,0 +1,1 @@
+This is the COSQ design corresponding to the Algorithm 1 in the Thesis. Note that the Algorithm 1 in the Thesis represents the SQ design considering a noiseless channel. However if the optimality conditions are accordingly replaced with (2.32) and (2.33), the ultimated algorithm is COSQ. Create a directory named Data to store the ultimated quantizers.   
